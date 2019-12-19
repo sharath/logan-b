@@ -1,1 +1,1 @@
-sbatch -p 2080ti-short --gres=gpu:1 launch.sh
+sbatch -p 2080ti-long --gres=gpu:1 launch.sh

@@ -1,6 +1,8 @@
 # LOGAN-B: Bidirectional Latent Optimized Generative Adversarial Networks
 
-Abstract: The inductive bias of generative adversarial networks is a powerful tool for learning distributions of data. However, these models are difficult to train and very susceptible to mode collapse, capturing only a few modes of the data distribution. In this work, we introduce bidirectional latent optimized generative adversarial networks as a framework for training generative adversarial networks to mitigate this problem by encouraging the generator to maintain a mapping to the data distribution.
+The inductive bias of generative adversarial networks is a powerful tool for learning distributions of data. However, these models are difficult to train and very susceptible to mode collapse, capturing only a few modes of the data distribution. In this work, we introduce bidirectional latent optimized generative adversarial networks as a framework for training generative adversarial networks to mitigate this problem by encouraging the generator to maintain a mapping to the data distribution.
+
+[[Report]](https://sharath.github.io/logan-b/report/LOGAN_B.pdf)
 
 ## Synthetic Data
 

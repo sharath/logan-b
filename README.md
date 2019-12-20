@@ -8,7 +8,7 @@ GAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/synthetic/
 
 BiGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/synthetic/bigan.html)
 
-LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/synthetic/logan-b.html)
+LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/synthetic/logan_b.html)
 
 ## MNIST
 

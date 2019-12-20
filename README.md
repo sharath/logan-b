@@ -16,20 +16,20 @@ DCGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/mnist/mn
 
 BiGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/mnist/mnist_bigan.html)
 
-LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/mnist/mnist_logan-b.html)
+LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/mnist/mnist_logan_b.html)
 
 
 ## CIFAR10
 
-DCGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/cifar10_gan.html)
+DCGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/cifar10_dcgan.html)
 
 BiGAN: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/cifar10_bigan.html)
 
-LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/cifar10_logan-b.html)
+LOGAN-B: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/cifar10_logan_b.html)
 
-Bootstrap: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/bootstrap.html)
+Bootstrap: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/bootstrap_logan_b.html)
 
-Interpolation: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/interpolation.html)
+Interpolation: [Jupyter Notebook](https://sharath.github.io/logan-b/experiments/cifar10/interpolation_logan_b.html)
 
 
 <sub><sup>Course Project for CS670 @ UMass Amherst</sup></sub>
